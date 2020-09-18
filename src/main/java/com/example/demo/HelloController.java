@@ -9,6 +9,6 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String hello() {
-        return "Hello Spring Boot123!";
+        return "Hello Spring Boot!";
     }
 }
